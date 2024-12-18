@@ -1,6 +1,6 @@
 # Gestión de productos - Dicsys
 
-Página web para gestionar productos. La misma consume una API desarrollada en .Net y lo guarda en una BD alojada en SOMEE.
+Página web para gestionar productos. La misma consume una API desarrollada en .Net y guarda los datos en una BD alojada en SOMEE.
 
 Profesor: Martín Castro 😎
 <br>

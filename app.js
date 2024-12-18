@@ -1,4 +1,4 @@
-const apiUrl = "http://www.NegocioDicsys.somee.com/api/Productos";
+const apiUrl = "https://www.NegocioDicsys.somee.com/api/Productos";
 
 let idProductoEditar = null; 
 
